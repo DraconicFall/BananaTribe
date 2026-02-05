@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39ebdfdfdddaeea488e60a0986ff88e8, type: 3}
+  m_Name: PrimordialOozeSplit2
+  m_EditorClassIdentifier: 
+  damagePercentIncrease: 0
+  orderInFightStart: 0
+  baseParticleEffect: {fileID: 424913755838210791, guid: 081b87676c88f384a80d7bd6ea468f13, type: 3}
+  attributeType: 4
+  attributeEffect: 4
+  objToSummonLv1: {fileID: 0}
+  AttacksTillEffect: 0
+  rangeOfEffect: 2
+  healthIncrease: 0
+  damageIncrease: 0
+  speedIncrease: 0
+  firerateIncrease: 0
+  goldIncrease: 0
+  rangeIncrease: 0
+  shieldIncrease: 0
+  piercingIncrease: 0
+  objToSummonLv2: {fileID: 0}
+  objToSummonLv3: {fileID: 0}
+  lvlUpHealthIncrease: 0
+  lvlUpDamageIncrease: 0
+  lvlUpSpeedIncrease: 0
+  lvlUpFirerateIncrease: 0
+  lvlUpGoldIncrease: 0
+  lvlUpRangeIncrease: 0
+  lvlUpShieldIncrease: 0
+  lvlUpPiercingIncrease: 0

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 301b9665dfe9819408ff2b0b54f92822, type: 3}
+  m_Name: BananMonkPal
+  m_EditorClassIdentifier: 
+  price: 40
+  palSprite: {fileID: 21300000, guid: aedd49189be33544ea22b72d34e25605, type: 3}
+  palCardColor: {r: 0.9452121, g: 0.6245283, b: 1, a: 1}
+  palName: Booster Monkey
+  palAtkDescription: Quickly attacks enemies at close range.
+  palFollowDescription: Boosts player speed, firerate and damage.
+  thePal: {fileID: 1270922370181977517, guid: 8e4c18f14a665d84a9f3ef75af683847, type: 3}

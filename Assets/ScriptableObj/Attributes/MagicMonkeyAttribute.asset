@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39ebdfdfdddaeea488e60a0986ff88e8, type: 3}
+  m_Name: MagicMonkeyAttribute
+  m_EditorClassIdentifier: 
+  doesThisPalTaunt: 0
+  tauntRange: 0
+  dealDamageTargetsFarthest: 0
+  damageDeltFromAttribute: 1
+  damagePercentIncrease: 0
+  orderInFightStart: 1
+  connectionType: 3
+  startConnectionEffect: {fileID: 6855992495312520923, guid: 5f850f189002859469917619c6021da3, type: 3}
+  connectionEffect: {fileID: 7787701171193477066, guid: ea7b9c4c2d3c7804c9a715c4783b9b7c, type: 3}
+  connectionBasedTextLv1: when they attack, deals 1 <sprite index=5> damage around
+  connectionBasedTextLv2: when they attack, deals 2 <sprite index=5> damage around
+  connectionBasedTextLv3: when they attack, deals 3 <sprite index=5> damage around
+  targetingType: 0
+  uniqueDescriptionEndText: 
+  baseParticleEffect: {fileID: 424913755838210791, guid: 081b87676c88f384a80d7bd6ea468f13, type: 3}
+  attributeType: 0
+  attributeEffect: 3
+  objToSummonLv1: {fileID: 4830046267736829232, guid: 83fb984b90b8cb945ac058043408f3d0, type: 3}
+  AttacksTillEffect: 0
+  rangeOfEffect: 1
+  healthIncrease: 0
+  damageIncrease: 0
+  speedIncrease: 0
+  firerateIncrease: 0
+  goldIncrease: 0
+  rangeIncrease: 0
+  shieldIncrease: 0
+  piercingIncrease: 0
+  objToSummonLv2: {fileID: 4830046267736829232, guid: 9ef6fb0ef57e766498b7088334fdd9be, type: 3}
+  objToSummonLv3: {fileID: 4830046267736829232, guid: 087c0896b7c9d164c9575ed0d516161c, type: 3}
+  lvlUpHealthIncrease: 0
+  lvlUpDamageIncrease: 0
+  lvlUpSpeedIncrease: 0
+  lvlUpFirerateIncrease: 0
+  lvlUpGoldIncrease: 0
+  lvlUpRangeIncrease: 0
+  lvlUpShieldIncrease: 0
+  lvlUpPiercingIncrease: 0

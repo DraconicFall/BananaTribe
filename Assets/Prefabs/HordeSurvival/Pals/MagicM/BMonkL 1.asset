@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83a25a196d64b7e46892329e7dc0ac82, type: 3}
+  m_Name: BMonkL 1
+  m_EditorClassIdentifier: 
+  typeOfAttack: 0
+  invincibleWhenAttack: 0
+  atkDelayS: 1
+  atkDelayE: 0.2
+  attackIndicator: {fileID: 0}
+  otherIndicator: {fileID: 0}
+  deleteSelfAfterAtk: 0
+  attackFX: {fileID: 8300000, guid: cdc14a1c18a894c42a5031940ca20e1e, type: 3}
+  volumeFX: 0.15
+  pitchMinFX: 1
+  pitchMaxFX: 1
+  usesAnimation: 1
+  playAnimationBeforeWait: 1
+  facePlayerWhenAnimating: 0
+  idleAtEnd: 1
+  idleAnimation: PlayerIdle
+  attackingAnimation: PlayerIdle
+  animationParticleEffect: {fileID: 0}
+  animPartEffectPos: {x: 0, y: 0}
+  idleAnimDelay: 0
+  attackAnimDelay: 0
+  animEndTime: 0
+  bullet: {fileID: 6149926512380829382, guid: 4608f24bd9f81d0499399191e8786b0b, type: 3}
+  BulletsAmounts: 1
+  startRegularAngle: 0
+  endRegularAngle: 0
+  randomAngles: 0
+  RepeatAmount: 2
+  RepeatRate: 0.15
+  alwaysChangeTarget: 1
+  movementType: 0
+  repeatAmount: 0
+  mAmount: 0
+  mRate: 0
+  mEffect: {fileID: 0}
+  rDEAtEnd: 0
+  attacksToCombine: []
+  canAtk: 0

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 301b9665dfe9819408ff2b0b54f92822, type: 3}
+  m_Name: PriestMonkPal
+  m_EditorClassIdentifier: 
+  price: 18
+  palSprite: {fileID: 21300000, guid: 680bd596e9fbd0049ae8fac31c703b67, type: 3}
+  palCardColor: {r: 0.6070263, g: 1, b: 0.5264151, a: 1}
+  palName: Priest Monkey
+  palAtkDescription: Heals the player.
+  palFollowDescription: Heals the player.
+  thePal: {fileID: 2392371768575551810, guid: 60c53d1eb5ee37c49af0fbb46cd17412, type: 3}

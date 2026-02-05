@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b377f17ffd740564580a6241681311fd, type: 3}
+  m_Name: TempFloor2
+  m_EditorClassIdentifier: 
+  floor1Waves:
+  - {fileID: 9012304716428526972, guid: 4b601ef1d65745c4bbb2b2ebc2b7e807, type: 3}
+  - {fileID: 4762071939076811001, guid: 143dfc8a0e5abc24caca8de5d603a43e, type: 3}
+  - {fileID: 4657714177865835855, guid: 7d33a88eafcaa1248af7e41aff331c1e, type: 3}
+  floor2Waves:
+  - {fileID: 205128778706549974, guid: 9a4d3e9ca0b33874c92c3be0ccd5226a, type: 3}
+  - {fileID: 652937907491283389, guid: 896538d65db64724d9aa53d98f57ca9f, type: 3}
+  - {fileID: 7735379604155621691, guid: b804b058c9d916d479e4c82ccdc7616d, type: 3}
+  floor3And4Waves:
+  - {fileID: 652937907491283389, guid: 896538d65db64724d9aa53d98f57ca9f, type: 3}
+  - {fileID: 205128778706549974, guid: 9a4d3e9ca0b33874c92c3be0ccd5226a, type: 3}
+  - {fileID: 7735379604155621691, guid: b804b058c9d916d479e4c82ccdc7616d, type: 3}
+  floor5Waves:
+  - {fileID: 7379436814343153577, guid: 5653914194dc07e48bdb94a3c26b2b73, type: 3}
+  - {fileID: 241228775179828550, guid: e9ed667c80af63c4fb86c9cfecc601fd, type: 3}
+  - {fileID: 8475207436184680919, guid: 7b2ea14a3bf91ec4ca5ca1d2133f1367, type: 3}
+  BossWaves:
+  - {fileID: 6477597642693560766, guid: c888f40253de93841a45ac1b3deb973c, type: 3}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 301b9665dfe9819408ff2b0b54f92822, type: 3}
+  m_Name: BananaMonkeyShop
+  m_EditorClassIdentifier: 
+  palSprite: {fileID: 21300000, guid: b89cd10731455414a86b116660777576, type: 3}
+  palName: Banana Monkey
+  thePal: {fileID: 1635606468454022369, guid: 68f2f2dd304ec4e4e889214551a1cce0, type: 3}
+  baseHealth: 2
+  baseSpeed: 1
+  baseFirerate: 3
+  baseDamage: 1
+  baseRange: 5
