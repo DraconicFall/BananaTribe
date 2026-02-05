@@ -1,5 +1,7 @@
 # BananaTribe
 
+This repository contains the code, sprites, and other assets for this game.
+
 Autobattler, decently early in development.
 
 Currently, one Key Input for everything.
