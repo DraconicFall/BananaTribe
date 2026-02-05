@@ -2,6 +2,8 @@
 
 This repository contains the code, sprites, and other assets for this game.
 
+Game can be played here: https://chronocogged.itch.io/banana-tribe
+
 Autobattler, decently early in development.
 
 Currently, one Key Input for everything.
