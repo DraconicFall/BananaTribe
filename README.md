@@ -1,6 +1,6 @@
 # BananaTribe
 
-MJ2025Submission was the original name of this project, when I renamed it to Banana Tribe in Unity, Hackatime automatically made it into a new project. (the 2 projects are actually the same project)
+MJ2025Submission was the original name of this project, when I renamed it to Banana Tribe in Unity, Hackatime automatically made a new project. (the 2 projects are actually the same project)
 
 This repository contains the code, sprites, and other assets for this game.
 
